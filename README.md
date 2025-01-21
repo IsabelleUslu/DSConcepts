@@ -4,3 +4,4 @@ A repository that I share my Jupyter notebooks on data science concepts that I h
 2. AIS Data - Open for next steps such as clustering and predictive models. Wanted to try my hypothesis decision function which seemed to be working just fine (10/09/2024)
 3. Wanted to try a different approach on filling missing values in the Titanic dataset Cabin column. Merged 2 csv files first (train and test sets). It is open for improvement, can add some visualizations. (12/09/2024)
 4. How does an ROC-AUC curve work? It is often overlooked, as it is as easy as importing sklearn and using appropriate functions, but what happens under the hood is here! (20/12/2024)
+5. DataTansformations - Why data transformations are important and helpful in data science. The answer is here! (21/01/2024)
